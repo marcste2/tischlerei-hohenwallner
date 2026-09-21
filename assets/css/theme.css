@@ -1,24 +1,24 @@
 /* Farbwelt dieses Kunden – erzeugt von bauen.py aus kunde.json (theme). Nicht von Hand ändern. */
 :root {
-  --paper: #EEF4F1;
-  --paper-2: #DFEAE5;
-  --paper-3: #CFDDD6;
-  --white: #FBFDFC;
-  --night: #0E1813;
-  --night-2: #15231C;
-  --ink: #121F18;
-  --ink-2: #364A40;
-  --oak: #E0873E;
+  --paper: #F8F8F6;
+  --paper-2: #EDEDE8;
+  --paper-3: #E0E0D9;
+  --white: #FCFCFC;
+  --night: #191B1A;
+  --night-2: #222423;
+  --ink: #171918;
+  --ink-2: #3E4140;
+  --oak: #EC7E05;
   --water: #9FB5BD;
-  --muted: #51675C;
-  --brand: #145233;
-  --oak-deep: #AC5D1C;
-  --oak-deeper: #924F18;
-  --oak-light: #E2AE83;
-  --map-halo: #EDECE4;
-  --paper-rgb: 238,244,241;
-  --ink-rgb: 18,31,24;
-  --night-rgb: 14,24,19;
-  --oak-rgb: 224,135,62;
-  --oak-light-rgb: 226,174,131;
+  --muted: #5A5D5C;
+  --brand: #124D30;
+  --oak-deep: #BC5800;
+  --oak-deeper: #9E4A00;
+  --oak-light: #F6A04D;
+  --map-halo: #F7EFE5;
+  --paper-rgb: 248,248,246;
+  --ink-rgb: 23,25,24;
+  --night-rgb: 25,27,26;
+  --oak-rgb: 236,126,5;
+  --oak-light-rgb: 246,160,77;
 }
