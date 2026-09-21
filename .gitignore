@@ -1,0 +1,15 @@
+# Nur die Website wird veröffentlicht. Internes bleibt lokal:
+_quellen/
+_video/
+_build/
+.claude/
+kunde.json
+HINWEISE.md
+Website starten.bat
+*.zip
+_qa-huelle.html
+_audit-huelle.html
+
+# Betriebssystem / Editor
+Thumbs.db
+.DS_Store

@@ -1,0 +1,24 @@
+/* Farbwelt dieses Kunden – erzeugt von bauen.py aus kunde.json (theme). Nicht von Hand ändern. */
+:root {
+  --paper: #EEF4F1;
+  --paper-2: #DFEAE5;
+  --paper-3: #CFDDD6;
+  --white: #FBFDFC;
+  --night: #0E1813;
+  --night-2: #15231C;
+  --ink: #121F18;
+  --ink-2: #364A40;
+  --oak: #E0873E;
+  --water: #9FB5BD;
+  --muted: #51675C;
+  --brand: #145233;
+  --oak-deep: #AC5D1C;
+  --oak-deeper: #924F18;
+  --oak-light: #E2AE83;
+  --map-halo: #EDECE4;
+  --paper-rgb: 238,244,241;
+  --ink-rgb: 18,31,24;
+  --night-rgb: 14,24,19;
+  --oak-rgb: 224,135,62;
+  --oak-light-rgb: 226,174,131;
+}
